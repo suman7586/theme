@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.theme.challis"
+        versionCode="10"
+        version   = "1.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Challis Theme</name>
+
+    <description>
+        A simple Theme
+    </description>
+
+    <author href="http://wrctechnologies.com" email="suman.wrc@gmail.com">
+        Suman Chakraborty
+    </author>
+    <access origin="*" />
+    
+    
+</widget>
